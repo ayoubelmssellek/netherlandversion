@@ -1,389 +1,354 @@
 {
   "results": [
     {
-      "file": "blogs/box-iptv-nederland-fire-stick-android.webp",
+      "file": "blogs/iptv-box-nederland.jpg",
       "keywords": [
-        "box iptv android",
-        "box android iptv",
-        "iptv nederland",
-        "smart tv iptv"
+        "iptv box nederland",
+        "fire stick iptv",
+        "iptv nederland"
       ],
-      "alt": "Fire Stick en box — IPTV-box Nederland Android",
-      "status": "injected-es:webp"
+      "alt": "Omslag IPTV-box Nederland — Fire Stick en Android",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/checklist-iptv-nederland.png",
+      "file": "blogs/checklist-iptv-nederland.jpg",
       "keywords": [
+        "checklist iptv nederland",
         "iptv nederland",
-        "beste iptv nederland",
-        "iptv nederland kopen",
-        "smart tv iptv"
+        "iptv nederland kopen"
       ],
-      "alt": "Afstandsbediening en Smart TV — checklist IPTV Nederland",
-      "status": "injected-es:png"
+      "alt": "Omslag checklist IPTV Nederland — wat je checkt voor een abonnement",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/epg-laadt-niet-portada.jpg",
+      "file": "blogs/epg-laadt-niet.jpg",
       "keywords": [
-        "iptv nederland",
-        "iptv smarters pro",
-        "tivimate iptv",
-        "xtream iptv"
+        "epg laadt niet",
+        "iptv epg",
+        "iptv nederland"
       ],
-      "alt": "Lege tv-gids — de EPG laadt niet bij IPTV Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag de EPG laadt niet bij IPTV Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/woordenlijst-iptv-nederland-portada.jpg",
+      "file": "blogs/woordenlijst-iptv-nederland.jpg",
       "keywords": [
-        "iptv nederland",
-        "xtream iptv",
-        "m3u iptv nederland",
-        "iptv zenders nederland"
+        "woordenlijst iptv",
+        "wat is m3u",
+        "iptv nederland"
       ],
-      "alt": "Laptop met termen — woordenlijst IPTV Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag woordenlijst IPTV Nederland — EPG, VOD, M3U, Xtream",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/internet-voor-iptv-portada.jpg",
+      "file": "blogs/internet-voor-iptv.jpg",
       "keywords": [
-        "iptv nederland",
-        "iptv 4k nederland",
-        "smart tv iptv",
-        "iptv zenders nederland"
+        "internet voor iptv",
+        "wifi iptv nederland",
+        "iptv nederland"
       ],
-      "alt": "Glasvezelrouter — internet voor IPTV Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag internet voor IPTV — Mbps en wifi in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-4k-nederland-smart-tv.webp",
+      "file": "blogs/iptv-4k-nederland.jpg",
       "keywords": [
         "iptv 4k nederland",
-        "iptv nederland",
-        "smart tv iptv",
-        "beste iptv nederland"
+        "iptv smart tv",
+        "iptv nederland"
       ],
-      "alt": "Smart TV 4K — IPTV 4K Nederland, echte kwaliteit",
-      "status": "injected-es:webp"
+      "alt": "Omslag IPTV 4K Nederland op Smart TV",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-android-nederland.webp",
+      "file": "blogs/iptv-android-nederland.jpg",
       "keywords": [
-        "app iptv android",
-        "iptv player android",
-        "iptv nederland",
-        "xtream iptv"
+        "iptv android nederland",
+        "iptv android installeren",
+        "iptv nederland"
       ],
-      "alt": "Android-smartphone — IPTV-app Nederland op Android",
-      "status": "injected-es:webp"
+      "alt": "Omslag IPTV Android Nederland installeren",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-goedkoop-nederland-portada.jpg",
+      "file": "blogs/goedkope-iptv-nederland.jpg",
       "keywords": [
-        "iptv nederland",
-        "iptv nederland kopen",
-        "iptv abonnement",
-        "iptv zenders nederland"
+        "goedkope iptv nederland",
+        "iptv nederland prijs",
+        "iptv nederland"
       ],
-      "alt": "Kosten plannen — goedkope IPTV Nederland en abonnement",
-      "status": "injected-es:jpg"
+      "alt": "Omslag goedkope IPTV Nederland — echte kosten",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-ontbrekende-zenders-portada.jpg",
+      "file": "blogs/iptv-ontbrekende-zenders.jpg",
       "keywords": [
-        "iptv nederland",
-        "iptv smarters pro",
-        "xtream iptv",
-        "smart tv iptv"
-      ],
-      "alt": "Lege Smart TV — ontbrekende zenders bij IPTV Nederland",
-      "status": "injected-es:jpg"
-    },
-    {
-      "file": "blogs/iptv-eredivisie-nederland.webp",
-      "keywords": [
-        "iptv nederland",
-        "beste iptv nederland",
-        "smart tv iptv",
-        "iptv zenders nederland"
-      ],
-      "alt": "Stadion bij nacht — Eredivisie IPTV",
-      "status": "injected-es:webp"
-    },
-    {
-      "file": "blogs/iptv-meerdere-apparaten-nederland-portada.jpg",
-      "keywords": [
-        "iptv nederland",
-        "iptv abonnement",
-        "smart tv iptv",
-        "app iptv android"
-      ],
-      "alt": "Tv, tablet en telefoon — IPTV Nederland op meerdere apparaten",
-      "status": "injected-es:jpg"
-    },
-    {
-      "file": "blogs/iptv-werkt-niet-buffering-nederland.webp",
-      "keywords": [
-        "iptv nederland",
-        "smart tv iptv",
-        "iptv smarters pro",
-        "iptv zenders nederland"
-      ],
-      "alt": "Netwerkcheck — buffering bij IPTV Nederland",
-      "status": "injected-es:webp"
-    },
-    {
-      "file": "blogs/iptv-voor-gezinnen-nederland-portada.jpg",
-      "keywords": [
-        "iptv nederland",
-        "iptv abonnement",
-        "smart tv iptv",
-        "beste iptv nederland"
-      ],
-      "alt": "Gezin in de woonkamer — IPTV voor gezinnen in Nederland",
-      "status": "injected-es:jpg"
-    },
-    {
-      "file": "blogs/iptv-nederland-in-frankrijk-portada.jpg",
-      "keywords": [
-        "iptv nederland",
-        "nederlandse iptv",
+        "iptv ontbrekende zenders",
         "iptv zenders nederland",
-        "smart tv iptv"
+        "iptv nederland"
       ],
-      "alt": "Appartement — IPTV Nederland in Frankrijk met Nederlandse zenders",
-      "status": "injected-es:jpg"
+      "alt": "Omslag IPTV met ontbrekende zenders in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-nederland-iphone-ipad.webp",
+      "file": "blogs/iptv-eredivisie-nederland.jpg",
       "keywords": [
-        "iptv apple tv",
-        "iptv nederland",
-        "iptv abonnement",
-        "smart tv iptv"
+        "iptv eredivisie",
+        "eredivisie iptv nederland",
+        "iptv nederland"
       ],
-      "alt": "iPhone en apps — IPTV Nederland op iOS",
-      "status": "injected-es:webp"
+      "alt": "Omslag IPTV Eredivisie en clubzenders in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-nederland-in-zwitserland-portada.jpg",
+      "file": "blogs/iptv-meerdere-apparaten-nederland.jpg",
       "keywords": [
-        "iptv nederland",
-        "nederlandse iptv",
-        "iptv abonnement",
-        "iptv zenders nederland"
+        "iptv meerdere apparaten",
+        "iptv verbindingen",
+        "iptv nederland"
       ],
-      "alt": "Woonkamer in Zwitserland — IPTV Nederland met Nederlandse zenders",
-      "status": "injected-es:jpg"
+      "alt": "Omslag IPTV Nederland op meerdere apparaten",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-nederland-prijs-abonnementen.webp",
+      "file": "blogs/iptv-werkt-niet-buffering-nederland.jpg",
       "keywords": [
-        "iptv nederland kopen",
-        "iptv abonnement",
-        "iptv nederland",
-        "iptv zenders nederland"
+        "iptv buffering nederland",
+        "iptv werkt niet",
+        "iptv nederland"
       ],
-      "alt": "Abonnementen en prijs — prijs IPTV Nederland",
-      "status": "injected-es:webp"
+      "alt": "Omslag IPTV werkt niet of buffert in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-smarters-pro-nederland.webp",
+      "file": "blogs/iptv-voor-gezinnen-nederland.jpg",
       "keywords": [
-        "iptv smarters pro",
-        "iptv smarters player",
+        "iptv voor gezinnen",
+        "iptv gezin nederland",
+        "iptv nederland"
+      ],
+      "alt": "Omslag IPTV voor gezinnen in Nederland",
+      "status": "injected-nl:jpeg"
+    },
+    {
+      "file": "blogs/iptv-nederland-in-frankrijk.jpg",
+      "keywords": [
+        "iptv nederland frankrijk",
+        "nederlandse zenders frankrijk",
+        "iptv nederland"
+      ],
+      "alt": "Omslag IPTV Nederland in Frankrijk — Nederlandse zenders",
+      "status": "injected-nl:jpeg"
+    },
+    {
+      "file": "blogs/iptv-nederland-iphone-ipad.jpg",
+      "keywords": [
+        "iptv iphone nederland",
+        "iptv ipad",
+        "iptv nederland"
+      ],
+      "alt": "Omslag IPTV Nederland op iPhone en iPad",
+      "status": "injected-nl:jpeg"
+    },
+    {
+      "file": "blogs/iptv-nederland-in-zwitserland.jpg",
+      "keywords": [
+        "iptv nederland zwitserland",
+        "nederlandse zenders zwitserland",
+        "iptv nederland"
+      ],
+      "alt": "Omslag IPTV Nederland in Zwitserland — Nederlandse zenders",
+      "status": "injected-nl:jpeg"
+    },
+    {
+      "file": "blogs/iptv-nederland-prijs-abonnementen.jpg",
+      "keywords": [
+        "prijs iptv nederland",
+        "iptv abonnement nederland",
+        "iptv nederland"
+      ],
+      "alt": "Omslag prijs IPTV Nederland — abonnementen en verbindingen",
+      "status": "injected-nl:jpeg"
+    },
+    {
+      "file": "blogs/iptv-smarters-pro-nederland.jpg",
+      "keywords": [
+        "iptv smarters pro nederland",
         "xtream iptv",
         "iptv nederland"
       ],
-      "alt": "Smarters-login — IPTV Smarters Pro Nederland Xtream",
-      "status": "injected-es:webp"
+      "alt": "Omslag IPTV Smarters Pro Nederland — Xtream-toegang",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-livestream-nederland.png",
+      "file": "blogs/iptv-livestream-nederland.jpg",
+      "keywords": [
+        "iptv live nederland",
+        "iptv livestream",
+        "iptv nederland"
+      ],
+      "alt": "Omslag IPTV live Nederland — zenders in directe uitzending",
+      "status": "injected-nl:jpeg"
+    },
+    {
+      "file": "blogs/iptv-nederland-gids.jpg",
       "keywords": [
         "iptv nederland",
-        "smart tv iptv",
-        "iptv abonnement",
-        "iptv zenders nederland"
+        "iptv nederlands",
+        "beste iptv nederland"
       ],
-      "alt": "Voetbalveld — live IPTV Nederland",
-      "status": "injected-es:png"
+      "alt": "Omslag IPTV Nederlands — wat het betekent en hoe je kiest",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-nederland-portada.jpg",
+      "file": "blogs/iptv-vs-betaalde-tv-nederland.jpg",
       "keywords": [
-        "iptv nederland",
-        "nederlandse iptv",
-        "beste iptv nederland",
-        "iptv zenders nederland"
+        "iptv vs ziggo",
+        "iptv vs betaalde tv",
+        "iptv nederland"
       ],
-      "alt": "Nederlandse woonkamer — Nederlandse IPTV",
-      "status": "injected-es:jpg"
+      "alt": "Omslag IPTV versus betaalde tv in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/iptv-vs-betaalde-tv-nederland-portada.jpg",
+      "file": "blogs/iptv-legaal-nederland.jpg",
       "keywords": [
-        "iptv nederland",
-        "iptv nederland kopen",
-        "nederlandse iptv",
-        "smart tv iptv"
-      ],
-      "alt": "Woonkamer met Smart TV — IPTV Nederland versus kabel-tv",
-      "status": "injected-es:jpg"
-    },
-    {
-      "file": "blogs/iptv-lijst-nederland-legal.webp",
-      "keywords": [
+        "iptv lijst nederland",
         "iptv legaal nederland",
-        "iptv nederland legaal",
-        "iptv lijst nederland",
         "iptv nederland"
       ],
-      "alt": "Juridische context — IPTV-lijst Nederland en risico's",
-      "status": "injected-es:webp"
+      "alt": "Omslag gratis IPTV-lijst Nederland — risico's en alternatieven",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/beste-app-iptv-nederland.png",
+      "file": "blogs/beste-app-iptv-nederland.jpg",
       "keywords": [
-        "iptv smarters pro",
-        "iptv smart player",
-        "smart tv iptv",
+        "beste app iptv nederland",
+        "iptv app nederland",
         "iptv nederland"
       ],
-      "alt": "App-overzicht — beste IPTV-app Nederland",
-      "status": "injected-es:png"
+      "alt": "Omslag beste IPTV-app Nederland — spelers vergelijken",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/beste-iptv-nederland-2026.webp",
+      "file": "blogs/beste-iptv-nederland-2026.jpg",
       "keywords": [
         "beste iptv nederland",
-        "beste iptv in nederland",
-        "iptv nederland",
-        "smart tv iptv"
+        "beste iptv nederland 2026",
+        "iptv nederland"
       ],
-      "alt": "Stel bij de Smart TV — beste IPTV Nederland 2026 met Nederlandse zenders",
-      "status": "injected-es:webp"
+      "alt": "Omslag beste IPTV Nederland 2026 — Nederlandse zenders",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/mundial-2026-iptv-nederland-portada.jpg",
+      "file": "blogs/wk-2026-iptv-nederland.jpg",
       "keywords": [
-        "iptv nederland",
-        "beste iptv nederland",
-        "iptv abonnement",
-        "smart tv iptv"
+        "wk 2026 iptv",
+        "wk 2026 nederland",
+        "iptv nederland"
       ],
-      "alt": "Wedsfeer — WK 2026 IPTV Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag WK 2026 kijken via IPTV Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/wat-is-m3u-portada.jpg",
+      "file": "blogs/wat-is-m3u.jpg",
       "keywords": [
-        "m3u iptv nederland",
-        "iptv lijst nederland",
-        "iptv afspeellijst nederland",
-        "xtream iptv"
+        "wat is m3u",
+        "m3u iptv",
+        "iptv nederland"
       ],
-      "alt": "Monitor met afspeellijst — wat is M3U bij IPTV Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag wat is M3U bij IPTV in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/sport-iptv-nederland.webp",
+      "file": "blogs/iptv-sport-nederland.jpg",
       "keywords": [
-        "iptv nederland",
-        "smart tv iptv",
-        "beste iptv nederland",
-        "iptv zenders nederland"
+        "iptv sport nederland",
+        "espn iptv nederland",
+        "iptv nederland"
       ],
-      "alt": "Voetbal — ESPN IPTV Nederland",
-      "status": "injected-es:webp"
+      "alt": "Omslag ESPN kijken via IPTV in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/proef-iptv-nederland-24h.webp",
+      "file": "blogs/proef-iptv-nederland.jpg",
       "keywords": [
-        "iptv proef",
         "proef iptv nederland",
-        "iptv nederland",
-        "iptv zenders nederland"
-      ],
-      "alt": "Laptop met gegevens — proef IPTV Nederland 24 uur",
-      "status": "injected-es:webp"
-    },
-    {
-      "file": "blogs/tivimate-nederland-portada.jpg",
-      "keywords": [
-        "tivimate iptv",
-        "tivimate iptv player",
-        "iptv nederland",
-        "smart tv iptv"
-      ],
-      "alt": "Android TV met EPG — TiviMate IPTV Nederland",
-      "status": "injected-es:jpg"
-    },
-    {
-      "file": "blogs/tivimate-vs-smarters-portada.jpg",
-      "keywords": [
-        "tivimate iptv",
-        "iptv smarters pro",
-        "iptv smarters player",
+        "iptv test 24 uur",
         "iptv nederland"
       ],
-      "alt": "Twee spelers — TiviMate versus IPTV Smarters Pro Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag proef IPTV Nederland van 24 uur",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/voordelen-iptv-nederland-portada.jpg",
+      "file": "blogs/tivimate-nederland.jpg",
       "keywords": [
-        "iptv nederland",
-        "beste iptv nederland",
-        "iptv nederland kopen",
-        "iptv zenders nederland"
+        "tivimate nederland",
+        "tivimate iptv",
+        "iptv nederland"
       ],
-      "alt": "Iemand in de woonkamer — voordelen van IPTV Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag TiviMate Nederland instellen op Android TV",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/ver-voetbal-iptv-nederland-portada.jpg",
+      "file": "blogs/tivimate-vs-iptv-smarters-pro.jpg",
       "keywords": [
-        "iptv nederland",
-        "beste iptv nederland",
-        "nederlandse iptv",
-        "smart tv iptv"
+        "tivimate vs smarters",
+        "iptv smarters pro",
+        "iptv nederland"
       ],
-      "alt": "Woonkamer met voetbal — IPTV Nederland live sport",
-      "status": "injected-es:jpg"
+      "alt": "Omslag TiviMate versus IPTV Smarters Pro in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/ver-tv-nederlandse-en-el-extranjero-portada.jpg",
+      "file": "blogs/voordelen-iptv-nederland.jpg",
       "keywords": [
+        "voordelen iptv nederland",
         "iptv nederland",
-        "nederlandse iptv",
-        "iptv abonnement",
-        "iptv zenders nederland"
+        "iptv abonnement"
       ],
-      "alt": "Hotel met tv — Nederlandse tv in het buitenland kijken met IPTV Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag voordelen van IPTV in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/vpn-iptv-nederland-portada.jpg",
+      "file": "blogs/voetbal-kijken-iptv-nederland.jpg",
       "keywords": [
-        "iptv nederland",
-        "nederlandse iptv",
-        "iptv abonnement",
-        "iptv zenders nederland"
+        "voetbal kijken iptv",
+        "eredivisie iptv",
+        "iptv nederland"
       ],
-      "alt": "Laptop en netwerk — VPN voor IPTV Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag voetbal kijken via IPTV in Nederland",
+      "status": "injected-nl:jpeg"
     },
     {
-      "file": "blogs/xtream-codes-nederland-portada.jpg",
+      "file": "blogs/nederlandse-tv-in-het-buitenland.jpg",
       "keywords": [
+        "nederlandse tv buitenland",
+        "iptv nederland buitenland",
+        "iptv nederland"
+      ],
+      "alt": "Omslag Nederlandse tv in het buitenland kijken via IPTV",
+      "status": "injected-nl:jpeg"
+    },
+    {
+      "file": "blogs/vpn-iptv-nederland.jpg",
+      "keywords": [
+        "vpn iptv nederland",
+        "iptv vpn",
+        "iptv nederland"
+      ],
+      "alt": "Omslag VPN voor IPTV Nederland — nodig of niet",
+      "status": "injected-nl:jpeg"
+    },
+    {
+      "file": "blogs/xtream-codes-nederland.jpg",
+      "keywords": [
+        "xtream codes nederland",
         "xtream iptv",
-        "xtream iptv player",
-        "iptv smarters pro",
         "iptv nederland"
       ],
-      "alt": "Xtream-login — Xtream Codes IPTV Nederland",
-      "status": "injected-es:jpg"
+      "alt": "Omslag Xtream Codes Nederland — URL en login",
+      "status": "injected-nl:jpeg"
     },
     {
       "file": "brand/beste-iptv-nederland-logo.jpg",
