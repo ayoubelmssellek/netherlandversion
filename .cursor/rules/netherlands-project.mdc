@@ -1,0 +1,15 @@
+---
+description: Netherlands IPTV site — Dutch market only
+alwaysApply: true
+---
+
+# Netherlands project
+
+This workspace is `stream_website_netherlands` for people in the Netherlands.
+
+- Language is Dutch (`nl-NL`). Brand is BesteIPTVNederland.
+- Do not edit the Portugal folder `stream_website` or the Spain folder `stream_website_spain`.
+- Do not put Spain, Portugal, La Liga, Movistar, or Spanish channel names back into user-facing copy.
+- Channel names in `channelLogos` are placeholders until the owner replaces them.
+- Do not invent customer reviews. `client-reviews.json` stays empty until real Dutch reviews exist.
+- Read `NETHERLANDS.md`.
