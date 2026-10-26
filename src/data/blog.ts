@@ -70,7 +70,7 @@ export const posts: Post[] = [
     updated: "2026-07-26",
     minutes: 9,
     cover: coverHowToChoose,
-    coverAlt: "Omslag checklist IPTV Nederland — wat je checkt voor een abonnement",
+    coverAlt: "Clipboard met checks en afstandsbediening bij een smart-tv — checklist IPTV Nederland",
     relatedPaths: [
       {
         href: "/blog/beste-iptv-nederland-2026",
@@ -136,7 +136,7 @@ export const posts: Post[] = [
     updated: "2026-07-26",
     minutes: 12,
     cover: coverTopAppsFirestick,
-    coverAlt: "Omslag beste IPTV-app Nederland — spelers vergelijken",
+    coverAlt: "Telefoon, tablet en tv naast elkaar — beste IPTV-app Nederland vergelijken",
     relatedPaths: [
       {
         href: "/installatiegidsen/firestick",
@@ -222,7 +222,7 @@ export const posts: Post[] = [
     date: "2026-01-18",
     minutes: 8,
     cover: coverBestLiveTv,
-    coverAlt: "Omslag IPTV live Nederland — zenders in directe uitzending",
+    coverAlt: "Woonkamer met live voetbal op de tv — IPTV live Nederland",
     relatedPaths: [
       {
         href: "/kanalen",
@@ -280,7 +280,7 @@ export const posts: Post[] = [
     date: "2026-04-02",
     minutes: 12,
     cover: coverSetupIphoneIpad,
-    coverAlt: "Omslag IPTV Nederland op iPhone en iPad",
+    coverAlt: "Telefoon en tablet die tv spelen — IPTV Nederland op iPhone en iPad",
     relatedPaths: [
       {
         href: "/installatiegidsen/ios",
@@ -350,7 +350,7 @@ export const posts: Post[] = [
     updated: "2026-07-26",
     minutes: 11,
     cover: coverIptvSmartersPro,
-    coverAlt: "Omslag IPTV Smarters Pro Nederland — Xtream-toegang",
+    coverAlt: "Tv met een Xtream-inlogscherm — IPTV Smarters Pro Nederland",
     relatedPaths: [
       {
         href: "/installatiegidsen/firestick",
@@ -418,7 +418,7 @@ export const posts: Post[] = [
     updated: "2026-07-26",
     minutes: 11,
     cover: coverAndroid,
-    coverAlt: "Omslag IPTV Android Nederland installeren",
+    coverAlt: "Android-telefoon en tv-box — IPTV Android Nederland installeren",
     relatedPaths: [
       {
         href: "/installatiegidsen/android",
@@ -487,7 +487,7 @@ export const posts: Post[] = [
     date: "2026-05-14",
     minutes: 11,
     cover: coverBuffering,
-    coverAlt: "Omslag IPTV werkt niet of buffert in Nederland",
+    coverAlt: "Tv met laadspinner en router — IPTV buffert in Nederland",
     relatedPaths: [
       {
         href: "/installatiegidsen",
@@ -574,7 +574,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 16,
     cover: coverBesteIptv2026,
-    coverAlt: "Omslag beste IPTV Nederland 2026 — Nederlandse zenders",
+    coverAlt: "Scherp tv-beeld in een Nederlandse woonkamer — beste IPTV Nederland 2026",
     relatedPaths: [
       {
         href: "/blog/checklist-iptv-nederland",
@@ -678,7 +678,7 @@ export const posts: Post[] = [
     updated: "2026-07-26",
     minutes: 10,
     cover: coverPrijsAbonnementen,
-    coverAlt: "Omslag prijs IPTV Nederland — abonnementen en verbindingen",
+    coverAlt: "Abonnementskaarten, euro's en een kalender — prijs IPTV Nederland",
     relatedPaths: [
       {
         href: "/prijzen",
@@ -748,7 +748,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 12,
     cover: coverProefIptv,
-    coverAlt: "Omslag proef IPTV Nederland van 24 uur",
+    coverAlt: "Klok naast een tv die net aangaat — proef IPTV Nederland van 24 uur",
     relatedPaths: [
       {
         href: "/veelgestelde-vragen",
@@ -831,7 +831,7 @@ export const posts: Post[] = [
     updated: "2026-07-26",
     minutes: 11,
     cover: coverSport,
-    coverAlt: "Omslag ESPN kijken via IPTV in Nederland",
+    coverAlt: "Tv met voetbal, tennis en wielrennen — IPTV sport Nederland",
     relatedPaths: [
       {
         href: "/kanalen#sport-tv",
@@ -905,7 +905,7 @@ export const posts: Post[] = [
     date: "2026-06-20",
     minutes: 11,
     cover: coverEredivisie,
-    coverAlt: "Omslag IPTV Eredivisie en clubzenders in Nederland",
+    coverAlt: "Stadion en tv met een wedstrijd — IPTV Eredivisie Nederland",
     relatedPaths: [
       {
         href: "/kanalen#eredivisie",
@@ -977,7 +977,7 @@ export const posts: Post[] = [
     updated: "2026-08-01",
     minutes: 16,
     cover: coverIptvLegaal,
-    coverAlt: "Omslag gratis IPTV-lijst Nederland — risico's en alternatieven",
+    coverAlt: "Gebroken ketting en waarschuwing naast een schild — risico van een gratis IPTV-lijst Nederland",
     relatedPaths: [
       {
         href: "/blog/proef-iptv-nederland",
@@ -1087,7 +1087,7 @@ export const posts: Post[] = [
     date: "2026-07-03",
     minutes: 11,
     cover: coverIptv4k,
-    coverAlt: "Omslag IPTV 4K Nederland op Smart TV",
+    coverAlt: "Haarscherp landschap op een smart-tv — IPTV 4K Nederland",
     relatedPaths: [
       {
         href: "/prijzen",
@@ -1163,7 +1163,7 @@ export const posts: Post[] = [
     date: "2026-07-05",
     minutes: 10,
     cover: coverBoxIptv,
-    coverAlt: "Omslag IPTV-box Nederland — Fire Stick en Android",
+    coverAlt: "Streamingstick en Android-box bij de tv — IPTV-box Nederland",
     relatedPaths: [
       {
         href: "/installatiegidsen/firestick",
@@ -1238,7 +1238,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 12,
     cover: coverIptvVsBetaaldeTv,
-    coverAlt: "Omslag IPTV versus betaalde tv in Nederland",
+    coverAlt: "Kabeldecoder naast een streamingstick — IPTV versus betaalde tv Nederland",
     relatedPaths: [
       { href: "/prijzen", label: "Abonnementen BesteIPTVNederland", description: "Prijs en verbindingen." },
       { href: "/wat-is-iptv", label: "Wat is IPTV", description: "Definitie en hoe het werkt." },
@@ -1295,7 +1295,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 14,
     cover: coverTvBuitenland,
-    coverAlt: "Omslag Nederlandse tv in het buitenland kijken via IPTV",
+    coverAlt: "Hotelkamer met koffer en Nederlandse tv — tv in het buitenland",
     relatedPaths: [
       { href: "/blog/iptv-nederland-in-frankrijk", label: "IPTV Nederland in Frankrijk", description: "Hub Frankrijk." },
       { href: "/blog/iptv-nederland-in-zwitserland", label: "IPTV Nederland in Zwitserland", description: "Hub Zwitserland." },
@@ -1352,7 +1352,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 11,
     cover: coverWk2026,
-    coverAlt: "Omslag WK 2026 kijken via IPTV Nederland",
+    coverAlt: "Vrienden kijken een wereldbekerwedstrijd — WK 2026 IPTV Nederland",
     relatedPaths: [
       { href: "/blog/iptv-sport-nederland", label: "ESPN via IPTV", description: "Sportgewoontes." },
       { href: "/blog/voetbal-kijken-iptv-nederland", label: "Voetbal kijken via IPTV", description: "Live voetbal." },
@@ -1406,7 +1406,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 10,
     cover: coverMeerdereApparaten,
-    coverAlt: "Omslag IPTV Nederland op meerdere apparaten",
+    coverAlt: "Tv, tablet en telefoon tegelijk aan — IPTV op meerdere apparaten",
     relatedPaths: [
       { href: "/pack-premium", label: "Premium-pakket (2 verbindingen)", description: "Woonkamer + een ander scherm." },
       { href: "/pack-familie", label: "Gezinspakket (3 verbindingen)", description: "Meerdere kamers." },
@@ -1460,7 +1460,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 9,
     cover: coverOntbrekendeZenders,
-    coverAlt: "Omslag IPTV met ontbrekende zenders in Nederland",
+    coverAlt: "Zendergrid met lege tegels — ontbrekende zenders bij IPTV Nederland",
     relatedPaths: [
       { href: "/kanalen", label: "Zenderoverzicht", description: "Wat de dienst dekt." },
       { href: "/blog/epg-laadt-niet", label: "De EPG laadt niet", description: "Tv-gids met storingen." },
@@ -1514,7 +1514,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 9,
     cover: coverGoedkopeIptv,
-    coverAlt: "Omslag goedkope IPTV Nederland — echte kosten",
+    coverAlt: "Bescheiden woonkamer met munten en een tv — goedkope IPTV Nederland",
     relatedPaths: [
       { href: "/prijzen", label: "Actuele prijzen", description: "Aankoopoverzicht." },
       { href: "/blog/iptv-nederland-prijs-abonnementen", label: "De prijs lezen", description: "Achtergrond bij kosten." },
@@ -1563,7 +1563,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 8,
     cover: coverIptvFrankrijk,
-    coverAlt: "Omslag IPTV Nederland in Frankrijk — Nederlandse zenders",
+    coverAlt: "Appartement in Parijs met Nederlandse tv — IPTV Nederland in Frankrijk",
     relatedPaths: [
       { href: "/blog/nederlandse-tv-in-het-buitenland", label: "Hub Nederlanders in het buitenland", description: "Algemene gids in het buitenland." },
       { href: "/blog/iptv-nederland-in-zwitserland", label: "IPTV in Zwitserland", description: "Zusterpagina." },
@@ -1601,7 +1601,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 8,
     cover: coverIptvZwitserland,
-    coverAlt: "Omslag IPTV Nederland in Zwitserland — Nederlandse zenders",
+    coverAlt: "Alpenwoning met Nederlandse tv — IPTV Nederland in Zwitserland",
     relatedPaths: [
       { href: "/blog/nederlandse-tv-in-het-buitenland", label: "Hub Nederlanders in het buitenland", description: "Algemene gids." },
       { href: "/blog/iptv-nederland-in-frankrijk", label: "IPTV in Frankrijk", description: "Zusterpagina." },
@@ -1639,7 +1639,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 8,
     cover: coverInternetVoorIptv,
-    coverAlt: "Omslag internet voor IPTV — Mbps en wifi in Nederland",
+    coverAlt: "Router, netwerkkabel en tv — internet voor IPTV Nederland",
     relatedPaths: [
       { href: "/blog/iptv-werkt-niet-buffering-nederland", label: "Buffering", description: "Praktische checklist." },
       { href: "/blog/iptv-4k-nederland", label: "IPTV 4K", description: "Wanneer je de resolutie verhoogt." },
@@ -1679,7 +1679,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 8,
     cover: coverVoetbalIptv,
-    coverAlt: "Omslag voetbal kijken via IPTV in Nederland",
+    coverAlt: "Gezin kijkt voetbal op de bank — voetbal via IPTV Nederland",
     relatedPaths: [
       { href: "/blog/iptv-sport-nederland", label: "ESPN in detail", description: "Speler en netwerk." },
       { href: "/blog/iptv-eredivisie-nederland", label: "Eredivisie en clubzenders", description: "Clubs." },
@@ -1727,7 +1727,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 8,
     cover: coverIptvGezinnen,
-    coverAlt: "Omslag IPTV voor gezinnen in Nederland",
+    coverAlt: "Ouders en kind op aparte schermen — IPTV voor gezinnen Nederland",
     relatedPaths: [
       { href: "/pack-familie", label: "Gezinspakket", description: "3 verbindingen." },
       { href: "/blog/iptv-meerdere-apparaten-nederland", label: "Meerdere apparaten", description: "Wat een verbinding is." },
@@ -1770,7 +1770,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 9,
     cover: coverTivimate,
-    coverAlt: "Omslag TiviMate Nederland instellen op Android TV",
+    coverAlt: "Android TV met een programmagids — TiviMate Nederland",
     relatedPaths: [
       { href: "/blog/tivimate-vs-iptv-smarters-pro", label: "TiviMate vs Smarters", description: "Directe vergelijking." },
       { href: "/blog/xtream-codes-nederland", label: "Xtream Codes", description: "De 3 velden." },
@@ -1810,7 +1810,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 8,
     cover: coverTivimateVsSmarters,
-    coverAlt: "Omslag TiviMate versus IPTV Smarters Pro in Nederland",
+    coverAlt: "Tv-gids naast een telefoonspeler — TiviMate versus IPTV Smarters Pro",
     relatedPaths: [
       { href: "/blog/tivimate-nederland", label: "TiviMate instellen", description: "Gids voor TiviMate." },
       { href: "/blog/iptv-smarters-pro-nederland", label: "Toegang tot Smarters", description: "Velden en fouten." },
@@ -1855,7 +1855,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 7,
     cover: coverXtreamCodes,
-    coverAlt: "Omslag Xtream Codes Nederland — URL en login",
+    coverAlt: "Inlogscherm met url, gebruiker en slot — Xtream Codes Nederland",
     relatedPaths: [
       { href: "/blog/iptv-smarters-pro-nederland", label: "Smarters stap voor stap", description: "Toegang in detail." },
       { href: "/m3u-xtream-omzetter", label: "M3U vs Xtream", description: "Formaten." },
@@ -1893,7 +1893,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 7,
     cover: coverIptvGids,
-    coverAlt: "Omslag IPTV Nederlands — wat het betekent en hoe je kiest",
+    coverAlt: "Persoon kiest zenders op de tv — gids IPTV Nederland",
     relatedPaths: [
       { href: "/kanalen", label: "Nederlandse zenders", description: "Aanbod." },
       { href: "/blog/beste-iptv-nederland-2026", label: "Beste IPTV", description: "Checklist." },
@@ -1925,7 +1925,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 8,
     cover: coverWoordenlijstIptv,
-    coverAlt: "Omslag woordenlijst IPTV Nederland — EPG, VOD, M3U, Xtream",
+    coverAlt: "Programmagids, films, playlist en sleutel — woordenlijst IPTV Nederland",
     relatedPaths: [
       { href: "/wat-is-iptv", label: "Wat is IPTV", description: "Volledige definitie." },
       { href: "/blog/wat-is-m3u", label: "Wat is M3U", description: "Playlist." },
@@ -1984,7 +1984,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 8,
     cover: coverVoordelenIptv,
-    coverAlt: "Omslag voordelen van IPTV in Nederland",
+    coverAlt: "Sport, films en nieuws op één tv — voordelen van IPTV Nederland",
     relatedPaths: [
       { href: "/blog/iptv-vs-betaalde-tv-nederland", label: "IPTV vs betaalde tv", description: "Praktische vergelijking." },
       { href: "/blog/goedkope-iptv-nederland", label: "Goedkope IPTV", description: "Echte kosten." },
@@ -2038,7 +2038,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 7,
     cover: coverVpnIptv,
-    coverAlt: "Omslag VPN voor IPTV Nederland — nodig of niet",
+    coverAlt: "Schild en slot voor een tv — VPN voor IPTV Nederland",
     relatedPaths: [
       { href: "/veelgestelde-vragen", label: "FAQ", description: "VPN en gebruik in het buitenland." },
       { href: "/blog/nederlandse-tv-in-het-buitenland", label: "Tv in het buitenland", description: "Nederlanders buiten Nederland." },
@@ -2082,7 +2082,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 6,
     cover: coverWatIsM3u,
-    coverAlt: "Omslag wat is M3U bij IPTV in Nederland",
+    coverAlt: "Lijst van zenderplaatjes op een monitor — wat is M3U bij IPTV",
     relatedPaths: [
       { href: "/m3u-xtream-omzetter", label: "M3U ↔ Xtream", description: "Educatieve tool." },
       { href: "/blog/iptv-legaal-nederland", label: "Lijsten en risico’s", description: "Geen gratis dumps." },
@@ -2124,7 +2124,7 @@ export const posts: Post[] = [
     updated: "2026-10-11",
     minutes: 7,
     cover: coverEpgLaadtNiet,
-    coverAlt: "Omslag de EPG laadt niet bij IPTV Nederland",
+    coverAlt: "Lege programmagids met laadspinner — de EPG laadt niet bij IPTV",
     relatedPaths: [
       { href: "/blog/iptv-ontbrekende-zenders", label: "Ontbrekende zenders", description: "Verwante checklist." },
       { href: "/blog/iptv-smarters-pro-nederland", label: "Toegang tot Smarters", description: "Xtream-velden." },

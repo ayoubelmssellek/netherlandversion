@@ -305,6 +305,9 @@ def draw_cover(headline: str, keywords: list[str]) -> Image.Image:
 
 
 def main() -> None:
+    raise SystemExit(
+        "Blog covers are topic photographs. Run scripts/install-blog-photos.py instead of redrawing text cards."
+    )
     OUT.mkdir(parents=True, exist_ok=True)
     blog = BLOG.read_text(encoding="utf-8")
     new_names = set()
