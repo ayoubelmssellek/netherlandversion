@@ -70,7 +70,7 @@ export default function ChannelsHero({ floatingLogos }: ChannelsHeroProps) {
                   }`}
                   style={{ animationDelay: `${index * 0.35}s` }}
                 >
-                  <div className="relative mx-auto h-14 w-full">
+                  <div className="relative mx-auto h-14 w-full rounded-lg bg-white px-2">
                     <Image
                       src={logo.src}
                       alt={logo.alt}

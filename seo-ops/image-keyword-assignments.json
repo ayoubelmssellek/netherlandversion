@@ -370,47 +370,7 @@
         "iptv nederland"
       ],
       "alt": "NPO 1 IPTV Nederland",
-      "status": "injected-es:webp"
-    },
-    {
-      "file": "channels/rtl-4-iptv-nederland.png",
-      "keywords": [
-        "rtl 4 iptv",
-        "iptv zenders nederland",
-        "iptv nederland"
-      ],
-      "alt": "RTL 4 IPTV Nederland",
-      "status": "injected-es:jpeg"
-    },
-    {
-      "file": "channels/sbs6-iptv-nederland.png",
-      "keywords": [
-        "sbs6 iptv",
-        "iptv zenders nederland",
-        "iptv nederland"
-      ],
-      "alt": "SBS6 IPTV Nederland",
-      "status": "injected-es:jpeg"
-    },
-    {
-      "file": "channels/veronica-iptv-nederland.png",
-      "keywords": [
-        "veronica iptv",
-        "iptv zenders nederland",
-        "iptv nederland"
-      ],
-      "alt": "Veronica IPTV Nederland",
-      "status": "injected-es:webp"
-    },
-    {
-      "file": "channels/net5-iptv-nederland.png",
-      "keywords": [
-        "net5 iptv",
-        "iptv zenders nederland",
-        "iptv nederland"
-      ],
-      "alt": "Net5 IPTV Nederland",
-      "status": "injected-es:webp"
+      "status": "injected-nl:png"
     },
     {
       "file": "channels/npo-2-iptv-nederland.png",
@@ -420,37 +380,7 @@
         "iptv nederland"
       ],
       "alt": "NPO 2 IPTV Nederland",
-      "status": "injected-es:webp"
-    },
-    {
-      "file": "channels/espn-iptv-nederland.png",
-      "keywords": [
-        "espn iptv",
-        "iptv sport nederland",
-        "iptv nederland"
-      ],
-      "alt": "ESPN IPTV Nederland",
-      "status": "injected-es:webp"
-    },
-    {
-      "file": "channels/rtl-7-iptv-nederland.png",
-      "keywords": [
-        "rtl 7 iptv",
-        "iptv zenders nederland",
-        "iptv nederland"
-      ],
-      "alt": "RTL 7 IPTV Nederland",
-      "status": "injected-es:webp"
-    },
-    {
-      "file": "channels/eredivisie-zender-iptv-nederland.png",
-      "keywords": [
-        "eredivisie iptv",
-        "iptv sport nederland",
-        "iptv nederland"
-      ],
-      "alt": "Eredivisie IPTV Nederland",
-      "status": "injected-es:webp"
+      "status": "injected-nl:png"
     },
     {
       "file": "channels/npo-3-iptv-nederland.png",
@@ -460,7 +390,57 @@
         "iptv nederland"
       ],
       "alt": "NPO 3 IPTV Nederland",
-      "status": "injected-es:jpeg"
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/npo-klassiek-iptv-nederland.png",
+      "keywords": [
+        "npo klassiek iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "NPO Klassiek IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/rtl-4-iptv-nederland.png",
+      "keywords": [
+        "rtl 4 iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "RTL 4 IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/rtl-5-iptv-nederland.png",
+      "keywords": [
+        "rtl 5 iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "RTL 5 IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/rtl-6-iptv-nederland.png",
+      "keywords": [
+        "rtl 6 iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "RTL 6 IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/rtl-7-iptv-nederland.png",
+      "keywords": [
+        "rtl 7 iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "RTL 7 IPTV Nederland",
+      "status": "injected-nl:png"
     },
     {
       "file": "channels/rtl-8-iptv-nederland.png",
@@ -470,37 +450,97 @@
         "iptv nederland"
       ],
       "alt": "RTL 8 IPTV Nederland",
-      "status": "injected-es:webp"
+      "status": "injected-nl:png"
     },
     {
-      "file": "channels/nos-iptv-nederland.png",
+      "file": "channels/rtl-z-iptv-nederland.png",
       "keywords": [
-        "nos iptv",
-        "iptv nederland",
-        "iptv zenders nederland"
-      ],
-      "alt": "NOS IPTV Nederland",
-      "status": "injected-es:webp"
-    },
-    {
-      "file": "channels/npo-3-iptv-nederland.png",
-      "keywords": [
-        "npo 3 iptv",
+        "rtl z iptv",
         "iptv zenders nederland",
         "iptv nederland"
       ],
-      "alt": "NPO 3 IPTV Nederland",
-      "status": "injected-es:webp"
+      "alt": "RTL Z IPTV Nederland",
+      "status": "injected-nl:png"
     },
     {
-      "file": "channels/rtl-7-iptv-nederland.png",
+      "file": "channels/rtl-iptv-nederland.png",
       "keywords": [
-        "rtl 7 iptv",
+        "rtl iptv",
         "iptv zenders nederland",
         "iptv nederland"
       ],
-      "alt": "RTL 7 IPTV Nederland",
-      "status": "injected-es:webp"
+      "alt": "RTL IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/sbs6-iptv-nederland.png",
+      "keywords": [
+        "sbs6 iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "SBS6 IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/sbs9-iptv-nederland.png",
+      "keywords": [
+        "sbs9 iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "SBS9 IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/net5-iptv-nederland.png",
+      "keywords": [
+        "net5 iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "Net5 IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/veronica-iptv-nederland.png",
+      "keywords": [
+        "veronica iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "Veronica IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/espn-iptv-nederland.png",
+      "keywords": [
+        "espn iptv",
+        "iptv sport nederland",
+        "iptv nederland"
+      ],
+      "alt": "ESPN IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/espn-2-iptv-nederland.png",
+      "keywords": [
+        "espn 2 iptv",
+        "iptv sport nederland",
+        "iptv nederland"
+      ],
+      "alt": "ESPN 2 IPTV Nederland",
+      "status": "injected-nl:png"
+    },
+    {
+      "file": "channels/discovery-iptv-nederland.png",
+      "keywords": [
+        "discovery iptv",
+        "iptv zenders nederland",
+        "iptv nederland"
+      ],
+      "alt": "Discovery IPTV Nederland",
+      "status": "injected-nl:png"
     },
     {
       "file": "entertainment-brands/apple-tv-iptv-nederland.jpg",
@@ -573,18 +613,18 @@
       "status": "injected-es:jpeg"
     },
     {
-      "file": "images/iptv-nederland-familia-smart-tv-sala.jpeg",
+      "file": "images/iptv-nederland-gezin-smart-tv-eredivisie.jpg",
       "keywords": [
         "iptv nederland",
         "beste iptv nederland",
         "iptv nederland gezin",
         "smart tv iptv nederland",
+        "eredivisie iptv nederland",
         "iptv zenders nederland",
-        "besteiptvnederland smart tv",
         "iptv abonnement nederland"
       ],
-      "alt": "IPTV Nederland gezin op Smart TV — BesteIPTVNederland met NL-zenders, sport en VOD",
-      "status": "injected-es:jpeg"
+      "alt": "Gezin kijkt IPTV Nederland op de smart-tv — Eredivisie, Nederlandse zenders en VOD",
+      "status": "injected-nl:jpeg"
     },
     {
       "file": "movies/dune-iptv-nederland.jpg",

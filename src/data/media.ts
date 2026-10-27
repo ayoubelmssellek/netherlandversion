@@ -1,16 +1,22 @@
 import type { StaticImageData } from "next/image";
 
+import discovery from "@/assets/channels/discovery-iptv-nederland.png";
 import espn from "@/assets/channels/espn-iptv-nederland.png";
-import eredivisieChannel from "@/assets/channels/eredivisie-zender-iptv-nederland.png";
+import espn2 from "@/assets/channels/espn-2-iptv-nederland.png";
 import net5 from "@/assets/channels/net5-iptv-nederland.png";
-import nos from "@/assets/channels/nos-iptv-nederland.png";
 import npo1 from "@/assets/channels/npo-1-iptv-nederland.png";
 import npo2 from "@/assets/channels/npo-2-iptv-nederland.png";
 import npo3 from "@/assets/channels/npo-3-iptv-nederland.png";
+import npoKlassiek from "@/assets/channels/npo-klassiek-iptv-nederland.png";
+import rtl from "@/assets/channels/rtl-iptv-nederland.png";
 import rtl4 from "@/assets/channels/rtl-4-iptv-nederland.png";
+import rtl5 from "@/assets/channels/rtl-5-iptv-nederland.png";
+import rtl6 from "@/assets/channels/rtl-6-iptv-nederland.png";
 import rtl7 from "@/assets/channels/rtl-7-iptv-nederland.png";
 import rtl8 from "@/assets/channels/rtl-8-iptv-nederland.png";
+import rtlZ from "@/assets/channels/rtl-z-iptv-nederland.png";
 import sbs6 from "@/assets/channels/sbs6-iptv-nederland.png";
+import sbs9 from "@/assets/channels/sbs9-iptv-nederland.png";
 import veronica from "@/assets/channels/veronica-iptv-nederland.png";
 
 import appleTvPlus from "@/assets/entertainment-brands/apple-tv-iptv-nederland.jpg";
@@ -60,23 +66,26 @@ export type SeoImage = {
   entity: string;
 };
 
-/**
- * Placeholder Dutch lineup. Owner will replace names and files.
- * `entity` keys must match ChannelsShowcase GUIDE_ORDER and channel pages.
- */
+/** `entity` keys for the home guide must match ChannelsShowcase GUIDE_ORDER. */
 export const channelLogos: SeoImage[] = [
   { src: npo1, alt: "NPO 1 IPTV Nederland", title: "NPO 1 — IPTV Nederland", keyword: "informational", entity: "NPO 1" },
   { src: npo2, alt: "NPO 2 IPTV Nederland", title: "NPO 2 — IPTV Nederland", keyword: "informational", entity: "NPO 2" },
   { src: npo3, alt: "NPO 3 IPTV Nederland", title: "NPO 3 — IPTV Nederland", keyword: "informational", entity: "NPO 3" },
+  { src: npoKlassiek, alt: "NPO Klassiek IPTV Nederland", title: "NPO Klassiek — IPTV Nederland", keyword: "informational", entity: "NPO Klassiek" },
   { src: rtl4, alt: "RTL 4 IPTV Nederland", title: "RTL 4 — IPTV Nederland", keyword: "informational", entity: "RTL 4" },
-  { src: sbs6, alt: "SBS6 IPTV Nederland", title: "SBS6 — IPTV Nederland", keyword: "informational", entity: "SBS6" },
-  { src: net5, alt: "Net5 IPTV Nederland", title: "Net5 — IPTV Nederland", keyword: "informational", entity: "Net5" },
-  { src: veronica, alt: "Veronica IPTV Nederland", title: "Veronica — IPTV Nederland", keyword: "informational", entity: "Veronica" },
+  { src: rtl5, alt: "RTL 5 IPTV Nederland", title: "RTL 5 — IPTV Nederland", keyword: "informational", entity: "RTL 5" },
+  { src: rtl6, alt: "RTL 6 IPTV Nederland", title: "RTL 6 — IPTV Nederland", keyword: "informational", entity: "RTL 6" },
   { src: rtl7, alt: "RTL 7 IPTV Nederland", title: "RTL 7 — IPTV Nederland", keyword: "transactional", entity: "RTL 7" },
   { src: rtl8, alt: "RTL 8 IPTV Nederland", title: "RTL 8 — IPTV Nederland", keyword: "informational", entity: "RTL 8" },
+  { src: rtlZ, alt: "RTL Z IPTV Nederland", title: "RTL Z — IPTV Nederland", keyword: "informational", entity: "RTL Z" },
+  { src: rtl, alt: "RTL IPTV Nederland", title: "RTL — IPTV Nederland", keyword: "informational", entity: "RTL" },
+  { src: sbs6, alt: "SBS6 IPTV Nederland", title: "SBS6 — IPTV Nederland", keyword: "informational", entity: "SBS6" },
+  { src: sbs9, alt: "SBS9 IPTV Nederland", title: "SBS9 — IPTV Nederland", keyword: "informational", entity: "SBS9" },
+  { src: net5, alt: "Net5 IPTV Nederland", title: "Net5 — IPTV Nederland", keyword: "informational", entity: "Net5" },
+  { src: veronica, alt: "Veronica IPTV Nederland", title: "Veronica — IPTV Nederland", keyword: "informational", entity: "Veronica" },
   { src: espn, alt: "ESPN IPTV Nederland", title: "ESPN — IPTV Nederland", keyword: "transactional", entity: "ESPN" },
-  { src: nos, alt: "NOS IPTV Nederland", title: "NOS — IPTV Nederland", keyword: "informational", entity: "NOS" },
-  { src: eredivisieChannel, alt: "Eredivisie IPTV Nederland", title: "Eredivisie — IPTV Nederland", keyword: "transactional", entity: "Eredivisie" },
+  { src: espn2, alt: "ESPN 2 IPTV Nederland", title: "ESPN 2 — IPTV Nederland", keyword: "transactional", entity: "ESPN 2" },
+  { src: discovery, alt: "Discovery IPTV Nederland", title: "Discovery — IPTV Nederland", keyword: "informational", entity: "Discovery" },
 ];
 
 export const entertainmentBrands: SeoImage[] = [

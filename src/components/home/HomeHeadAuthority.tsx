@@ -9,7 +9,7 @@ const hubs = [
   {
     href: "/kanalen",
     label: "Zenders en sport",
-    detail: "NPO 1, RTL 4, ESPN, NOS",
+    detail: "NPO 1, RTL 4, ESPN, Veronica",
   },
   {
     href: "/applicaties",

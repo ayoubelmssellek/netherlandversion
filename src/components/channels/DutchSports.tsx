@@ -13,7 +13,7 @@ export default function DutchSports({ sportsLogos, channelLogos }: DutchSportsPr
     ["Eredivisie", "UEFA Champions League", "Premier League", "Formula 1", "UFC"].includes(item.entity),
   );
   const sportChannels = channelLogos.filter((item) =>
-    ["ESPN", "Eredivisie", "NOS"].includes(item.entity),
+    ["ESPN", "ESPN 2"].includes(item.entity),
   );
   const showcase = [...sportChannels, ...featuredSports].slice(0, 7);
 

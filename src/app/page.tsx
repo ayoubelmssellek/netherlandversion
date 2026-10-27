@@ -11,7 +11,7 @@ import { posts } from "@/data/blog";
 import { packList } from "@/data/packs";
 import { channelLogos, entertainmentBrands, paymentMethods, posterImages } from "@/data/media";
 import { buildMetadata, faqJsonLd } from "@/lib/seo";
-import heroImage from "@/assets/images/iptv-nederland-familia-smart-tv-sala.jpeg";
+import heroImage from "@/assets/images/iptv-nederland-gezin-smart-tv-eredivisie.jpg";
 
 export const metadata = buildMetadata({
   title: "IPTV Nederland — BesteIPTVNederland | Nederlandse zenders, sport en VOD",
@@ -92,12 +92,12 @@ export default function HomePage() {
       >
         <Image
           src={heroImage}
-          alt="Gezin kijkt IPTV Nederland op de smart-tv — BesteIPTVNederland met Nederlandse zenders, sport en VOD"
-          title="IPTV Nederland — gezin kijkt tv met BesteIPTVNederland"
+          alt="Gezin kijkt IPTV Nederland op de smart-tv — Eredivisie, Nederlandse zenders en VOD"
+          title="IPTV Nederland — gezin kijkt Eredivisie en zenders op de smart-tv"
           fill
           priority
           quality={92}
-          className="object-cover object-[68%_42%] sm:object-[72%_40%] lg:object-[75%_38%]"
+          className="object-cover object-center"
           sizes="100vw"
         />
         <div

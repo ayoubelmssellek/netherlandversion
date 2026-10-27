@@ -22,9 +22,9 @@ export default function Header() {
             src={brandLogo}
             alt="BesteIPTVNederland — logo IPTV Nederland"
             title="BesteIPTVNederland"
-            height={44}
-            width={148}
-            className="h-10 w-auto md:h-11"
+            height={56}
+            width={200}
+            className="h-12 w-auto md:h-14"
             priority
           />
         </Link>

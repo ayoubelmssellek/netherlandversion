@@ -18,7 +18,7 @@ export default function FeaturedDutchChannels({ channels }: FeaturedDutchChannel
             Voorbeelden uit de zendercatalogus
           </h2>
           <p className="mt-4 max-w-2xl text-[16px] text-slate">
-            Logo&apos;s van Nederlandse zenders: NPO 1, RTL 4, SBS6, NPO 2, ESPN en NOS. In de speler zie je ook de rest
+            Logo&apos;s van Nederlandse zenders: NPO 1, RTL 4, SBS6, Net5, ESPN en Veronica. In de speler zie je ook de rest
             van je actieve abonnement — check altijd de lijst na het inloggen.
           </p>
         </Reveal>
@@ -27,7 +27,7 @@ export default function FeaturedDutchChannels({ channels }: FeaturedDutchChannel
           {channels.map((channel, index) => (
             <Reveal key={channel.entity} delayMs={(index % 4) * 60}>
               <article className="group rounded-2xl border border-white/10 bg-white/[0.04] p-6 backdrop-blur-md transition duration-300 hover:-translate-y-1.5 hover:border-white/30 hover:bg-white/[0.08] hover:shadow-[0_24px_80px_rgba(0,0,0,0.45)]">
-                <div className="relative mx-auto h-16 w-full max-w-[140px]">
+                <div className="relative mx-auto h-16 w-full max-w-[140px] rounded-lg bg-white px-2">
                   <Image
                     src={channel.src}
                     alt={channel.alt}

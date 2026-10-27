@@ -48,15 +48,15 @@ const GUIDE_META: Record<string, GuideMeta> = {
     category: "Sport",
     blurb: "ESPN voor de Eredivisie en Europese avonden.",
   },
-  NOS: {
+  Veronica: {
     number: "06",
-    category: "Nieuws",
-    blurb: "NOS in het nieuwsaanbod.",
+    category: "Entertainment",
+    blurb: "Veronica in het entertainmentaanbod.",
   },
 };
 
 /** Keys must match `channelLogos[].entity` in `src/data/media.ts`. */
-const GUIDE_ORDER = ["NPO 1", "RTL 4", "SBS6", "NPO 2", "ESPN", "NOS"];
+const GUIDE_ORDER = ["NPO 1", "RTL 4", "SBS6", "NPO 2", "ESPN", "Veronica"];
 const AUTO_MS = 3200;
 
 export default function ChannelsShowcase({ channels }: ChannelsShowcaseProps) {
@@ -132,7 +132,7 @@ export default function ChannelsShowcase({ channels }: ChannelsShowcaseProps) {
               Zenders IPTV Nederland
             </h2>
             <p className="mt-2 max-w-xl text-[14px] leading-[1.45] text-slate md:text-[15px]">
-              Voorbeelden uit de actieve catalogus: NPO 1, RTL 4, SBS6, NPO 2, ESPN en NOS. De volledige lijst staat
+              Voorbeelden uit de actieve catalogus: NPO 1, RTL 4, SBS6, NPO 2, ESPN en Veronica. De volledige lijst staat
               op Zenders.
             </p>
           </div>
@@ -189,7 +189,7 @@ export default function ChannelsShowcase({ channels }: ChannelsShowcaseProps) {
                   >
                     {channelMeta?.number ?? String(index + 1).padStart(2, "0")}
                   </span>
-                  <span className="relative h-6 w-10 shrink-0">
+                  <span className="relative h-6 w-10 shrink-0 rounded bg-white">
                     <Image
                       src={channel.src}
                       alt={channel.alt}
@@ -212,7 +212,7 @@ export default function ChannelsShowcase({ channels }: ChannelsShowcaseProps) {
             aria-labelledby={`${listId}-option-${activeIndex}`}
             className="flex items-center gap-5 bg-deep px-5 py-5 md:gap-8 md:px-8 md:py-6"
           >
-            <div className="relative h-16 w-28 shrink-0 md:h-20 md:w-36">
+            <div className="relative h-16 w-28 shrink-0 rounded-lg bg-white md:h-20 md:w-36">
               <Image
                 key={active.entity}
                 src={active.src}
