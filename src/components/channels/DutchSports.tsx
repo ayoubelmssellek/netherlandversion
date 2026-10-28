@@ -18,7 +18,7 @@ export default function DutchSports({ sportsLogos, channelLogos }: DutchSportsPr
   const showcase = [...sportChannels, ...featuredSports].slice(0, 7);
 
   return (
-    <section id="deporte" className="section-shell scroll-mt-24 py-20 md:py-28">
+    <section id="sport" className="section-shell scroll-mt-24 py-20 md:py-28">
       <Reveal>
         <p className="label">Sport in Nederland</p>
         <h2 className="mt-4 max-w-2xl text-[36px] tracking-[-0.9px] text-white md:text-[44px]">

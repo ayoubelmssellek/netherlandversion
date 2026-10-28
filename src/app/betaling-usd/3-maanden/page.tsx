@@ -3,7 +3,7 @@ import BetalingUsdLanding from "@/components/betaling-usd/BetalingUsdLanding";
 import { getPagoUsdPlan } from "@/data/betaling-usd";
 import { buildMetadata } from "@/lib/seo";
 
-const plan = getPagoUsdPlan("1-mes");
+const plan = getPagoUsdPlan("3-maanden");
 
 export const metadata: Metadata = buildMetadata({
   title: plan.seoTitle,
@@ -12,6 +12,6 @@ export const metadata: Metadata = buildMetadata({
   noIndex: true,
 });
 
-export default function PagoUsd1MesPage() {
-  return <BetalingUsdLanding slug="1-mes" />;
+export default function BetalingUsd3MaandenPage() {
+  return <BetalingUsdLanding slug="3-maanden" />;
 }

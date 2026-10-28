@@ -23,44 +23,50 @@ function isAvoidIntentQuery(query) {
     .toLowerCase()
     .trim();
   if (
-    q === "lista iptv españa gratis" ||
-    q === "listas iptv m3u españa" ||
-    q === "lista iptv españa"
+    q === "iptv nederland gratis lijst" ||
+    q === "gratis iptv lijsten nederland" ||
+    q === "gratis iptv nederland lijst" ||
+    q === "iptv lijst nederland gratis" ||
+    q === "gratis iptv lijst nederland" ||
+    q === "iptv m3u lijsten nederland"
   ) {
     return false;
   }
-  return /gratis|\bfree\b|github|reddit|aliexpress|lista definitiva 2021|\bm3u\b|playlist|listas?\b|apk\b|daily iptv list/i.test(
+  return /gratis|\bfree\b|github|reddit|aliexpress|lista definitiva 2021|\bm3u\b|playlist|listas?\b|lijsten?\b|apk\b|daily iptv list/i.test(
     q,
   );
 }
 
 /** @type {{ keyword: string; path: string; priority: string; note?: string }[]} */
 const PAGE_MAP = [
-  ["lista iptv españa gratis", "/blog/iptv-legaal-nederland", "A"],
-  ["listas iptv m3u españa", "/blog/iptv-legaal-nederland", "A"],
-  ["lista iptv españa", "/blog/iptv-legaal-nederland", "A"],
-  ["iptv android españa", "/installatiegidsen/android", "A"],
-  ["iptv smart tv españa", "/installatiegidsen/smart-tv", "A"],
-  ["smart tv iptv españa", "/installatiegidsen/smart-tv", "A"],
-  ["iptv smarters pro españa", "/blog/iptv-smarters-pro-nederland", "A"],
-  ["iptv smarters españa", "/blog/iptv-smarters-pro-nederland", "A"],
-  ["comprar iptv españa", "/prijzen", "A"],
-  ["iptv españa precio", "/prijzen", "A"],
-  ["suscripción iptv españa", "/prijzen", "A"],
-  ["prueba iptv españa", "/blog/proef-iptv-nederland", "A"],
-  ["mejor iptv españa", "/blog/beste-iptv-nederland-2026", "A"],
-  ["mejor iptv españa 2026", "/blog/beste-iptv-nederland-2026", "A"],
-  ["iptv 4k españa", "/blog/iptv-4k-nederland", "A"],
-  ["mejor app iptv españa", "/blog/beste-app-iptv-nederland", "A"],
-  ["box iptv españa", "/blog/iptv-box-nederland", "A"],
-  ["iptv deporte españa", "/blog/iptv-sport-nederland", "B"],
-  ["la liga iptv", "/blog/iptv-eredivisie-nederland", "B"],
-  ["canales iptv españa", "/kanalen", "B"],
-  ["iptv legal españa", "/blog/iptv-legaal-nederland", "C"],
-  ["iptv barato españa", "/blog/goedkope-iptv-nederland", "A"],
-  ["que es iptv", "/wat-is-iptv", "A"],
-  ["iptv españa", "/", "C"],
-  ["mejor iptv en españa", "/", "C"],
+  ["iptv nederland gratis lijst", "/blog/iptv-legaal-nederland", "A"],
+  ["gratis iptv lijsten nederland", "/blog/iptv-legaal-nederland", "A"],
+  ["gratis iptv nederland lijst", "/blog/iptv-legaal-nederland", "A"],
+  ["iptv lijst nederland gratis", "/blog/iptv-legaal-nederland", "A"],
+  ["gratis iptv lijst nederland", "/blog/iptv-legaal-nederland", "A"],
+  ["iptv m3u lijsten nederland", "/blog/iptv-legaal-nederland", "A"],
+  ["iptv android nederland", "/installatiegidsen/android", "A"],
+  ["iptv smart tv nederland", "/installatiegidsen/smart-tv", "A"],
+  ["smart tv iptv nederland", "/installatiegidsen/smart-tv", "A"],
+  ["iptv smarters pro nederland", "/blog/iptv-smarters-pro-nederland", "A"],
+  ["iptv smarters nederland", "/blog/iptv-smarters-pro-nederland", "A"],
+  ["iptv nederland kopen", "/prijzen", "A"],
+  ["iptv nederland prijs", "/prijzen", "A"],
+  ["iptv abonnement nederland", "/prijzen", "A"],
+  ["proef iptv nederland", "/blog/proef-iptv-nederland", "A"],
+  ["beste iptv nederland", "/blog/beste-iptv-nederland-2026", "A"],
+  ["beste iptv in nederland", "/blog/beste-iptv-nederland-2026", "A"],
+  ["iptv 4k nederland", "/blog/iptv-4k-nederland", "A"],
+  ["beste iptv app nederland", "/blog/beste-app-iptv-nederland", "A"],
+  ["iptv box nederland", "/blog/iptv-box-nederland", "A"],
+  ["iptv sport nederland", "/blog/iptv-sport-nederland", "B"],
+  ["eredivisie iptv", "/blog/iptv-eredivisie-nederland", "B"],
+  ["iptv zenders nederland", "/kanalen", "B"],
+  ["iptv nederland legaal", "/blog/iptv-legaal-nederland", "C"],
+  ["goedkope iptv nederland", "/blog/goedkope-iptv-nederland", "A"],
+  ["wat is iptv", "/wat-is-iptv", "A"],
+  ["iptv nederland", "/", "C"],
+  ["nederland iptv", "/", "C"],
 ].map(([keyword, p, priority]) => ({ keyword, path: p, priority }));
 
 function loadKeywords() {
@@ -181,7 +187,7 @@ function main() {
   }
 
   const head = rows.filter((r) =>
-    ["iptv españa", "mejor iptv españa", "iptv españa precio"].includes(r.query),
+    ["iptv nederland", "beste iptv nederland", "iptv nederland prijs"].includes(r.query),
   );
   console.log("\n--- Head terms ---");
   for (const r of head) {

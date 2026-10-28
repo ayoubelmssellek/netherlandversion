@@ -78,7 +78,7 @@ export default function SportsMatchNight({ competitions, featured }: SportsMatch
                 45.000<span className="text-white/35">+</span>
               </p>
               <p className="mt-3 text-[15px] text-slate">livezenders · sport · HD / FHD / 4K</p>
-              <Link href="#planes" className="btn btn-solid mt-8 inline-flex" aria-label="Kies een IPTV-abonnement">
+              <Link href="#abonnementen" className="btn btn-solid mt-8 inline-flex" aria-label="Kies een IPTV-abonnement">
                 Kies abonnement
               </Link>
             </div>
@@ -150,7 +150,7 @@ export default function SportsMatchNight({ competitions, featured }: SportsMatch
                   Eredivisie · Champions · ESPN in hetzelfde IPTV Premium
                 </p>
                 <Link
-                  href="#planes"
+                  href="#abonnementen"
                   className="text-[13px] font-medium text-white underline-offset-4 hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
                 >
                   Bekijk abonnementen →
