@@ -129,7 +129,7 @@ export default function OverOnsPage() {
           </Link>
           ,{" "}
           <Link href="/pack-premium" className="text-white underline-offset-4 hover:underline">
-            Premium €89
+            Premium €79
           </Link>{" "}
           en{" "}
           <Link href="/pack-familie" className="text-white underline-offset-4 hover:underline">
@@ -353,7 +353,7 @@ export default function OverOnsPage() {
           </li>
           <li>
             <strong className="text-white">Prijzen en verbindingen zichtbaar</strong> — pakketten vanaf €25 (kwartaal),
-            €45 (basis), €89 (premium) en €104 (familie), met 1, 2 of 3 verbindingen afhankelijk van het abonnement.
+            €45 (basis), €79 (premium) en €104 (familie), met 1, 2 of 3 verbindingen afhankelijk van het abonnement.
           </li>
           <li>
             <strong className="text-white">Support 24/7</strong> — e-mail en WhatsApp voor installatie, verlengen en

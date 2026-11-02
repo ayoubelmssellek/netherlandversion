@@ -31,7 +31,7 @@ const homeFaqs = [
   },
   {
     q: "Wat kosten de abonnementen?",
-    a: "De uitgelichte pakketten kosten €25, €45, €89 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). De volledige tabel staat op Prijzen — eenmalige betaling, zonder verrassende automatische verlenging.",
+    a: "De uitgelichte pakketten kosten €25, €45, €79 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). De volledige tabel staat op Prijzen — eenmalige betaling, zonder verrassende automatische verlenging.",
   },
   {
     q: "Hoe koop en activeer ik de dienst?",

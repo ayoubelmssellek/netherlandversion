@@ -14,7 +14,7 @@ export const homeFaqs = [
   },
   {
     q: "Wat kosten de plannen?",
-    a: "De uitgelichte packs kosten €25, €45, €89 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). De volledige tabel staat op Prijzen — eenmalige betaling, zonder onverwachte automatische verlenging.",
+    a: "De uitgelichte packs kosten €25, €45, €79 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). De volledige tabel staat op Prijzen — eenmalige betaling, zonder onverwachte automatische verlenging.",
   },
   {
     q: "Hoe koop en activeer ik de dienst?",

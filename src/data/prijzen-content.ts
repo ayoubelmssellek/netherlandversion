@@ -74,7 +74,7 @@ export const preciosConnectionCompare = [
 export const preciosFaqs = [
   {
     q: "Wat kosten de plannen van BesteIPTVNederland?",
-    a: "De uitgelichte packs kosten €25, €45, €89 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). De tabel op deze pagina toont alle actuele prijzen — eenmalige betaling.",
+    a: "De uitgelichte packs kosten €25, €45, €79 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). De tabel op deze pagina toont alle actuele prijzen — eenmalige betaling.",
   },
   {
     q: "Hoe koop en activeer ik de dienst?",

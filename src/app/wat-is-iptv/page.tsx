@@ -424,7 +424,7 @@ export default function WatIsIptvPage() {
           ))}
         </ul>
         <p>
-          Uitgelichte pakketten voor €25, €45, €89 en €104 afhankelijk van looptijd en verbindingen — volledige tabel
+          Uitgelichte pakketten voor €25, €45, €79 en €104 afhankelijk van looptijd en verbindingen — volledige tabel
           op{" "}
           <Link href="/prijzen" className="text-white underline-offset-4 hover:underline">
             Prijzen

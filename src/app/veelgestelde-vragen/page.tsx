@@ -72,7 +72,7 @@ const legaliteit = [
 const abonnementen = [
   {
     q: "Wat kosten de abonnementen?",
-    a: "De uitgelichte pakketten kosten €25, €45, €89 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). Vergelijk ze op de pagina Prijzen — eenmalige betaling, zonder verrassende automatische verlenging.",
+    a: "De uitgelichte pakketten kosten €25, €45, €79 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). Vergelijk ze op de pagina Prijzen — eenmalige betaling, zonder verrassende automatische verlenging.",
   },
   {
     q: "Hoe kies ik het aantal verbindingen?",

@@ -93,7 +93,7 @@ const connectionCompare = [
 const pageFaqs = [
   {
     q: "Wat kosten de abonnementen van BesteIPTVNederland?",
-    a: "De uitgelichte pakketten kosten €25, €45, €89 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). De tabel op deze pagina toont alle actuele prijzen — eenmalige betaling.",
+    a: "De uitgelichte pakketten kosten €25, €45, €79 en €104, afhankelijk van de looptijd en het aantal verbindingen (1, 2 of 3). De tabel op deze pagina toont alle actuele prijzen — eenmalige betaling.",
   },
   {
     q: "Hoe koop en activeer ik de dienst?",
@@ -143,7 +143,7 @@ export default function PrijzenPage() {
         </h1>
         <p className="animate-rise-delay-2 mt-5 max-w-2xl text-[16px] leading-[1.5] text-slate md:text-[18px]">
           Vergelijk abonnementen op looptijd en aantal verbindingen (1, 2 of 3). Uitgelichte pakketten voor €25, €45,
-          €89 en €104 — eenmalige betaling, activatie na bevestiging en support 24/7 in het Nederlands.
+          €79 en €104 — eenmalige betaling, activatie na bevestiging en support 24/7 in het Nederlands.
         </p>
         <div className="animate-rise-delay-2 mt-8 flex flex-wrap gap-3">
           <a href="#abonnementen" className="btn btn-solid" aria-label="Abonnementen en prijzen IPTV Nederland bekijken">
@@ -350,7 +350,7 @@ export default function PrijzenPage() {
             Uitgelichte pakketten
           </h2>
           <p className="mt-3 max-w-2xl text-[15px] leading-[1.55] text-slate">
-            Vier abonnementen met een eigen pagina — €25, €45, €89 en €104 afhankelijk van looptijd en verbindingen. De
+            Vier abonnementen met een eigen pagina — €25, €45, €79 en €104 afhankelijk van looptijd en verbindingen. De
             tabel hierboven blijft de volledige matrix (inclusief andere looptijden).
           </p>
           <ul className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
@@ -443,7 +443,7 @@ export default function PrijzenPage() {
             Klaar om een abonnement te kiezen?
           </h2>
           <p className="mx-auto mt-4 max-w-xl text-[15px] leading-[1.55] text-slate">
-            Vergelijk de prijzen (€25, €45, €89 of €104 bij de uitgelichte pakketten), vraag de proef van 24 uur aan
+            Vergelijk de prijzen (€25, €45, €79 of €104 bij de uitgelichte pakketten), vraag de proef van 24 uur aan
             als je het netwerk wilt testen en reken op de garantie van 7 dagen na de aankoop.
           </p>
           <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
