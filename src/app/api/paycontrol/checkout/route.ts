@@ -219,7 +219,7 @@ export async function POST(request: Request) {
         amount,
         expectedAmount: plan.price,
         paymentUrl: openUrl,
-        openAmountHint: `Voer op het betaalscherm precies ${amount.toFixed(2)} EUR in (abonnement ${plan.productName}).`,
+        openAmountHint: `Voer op het volgende scherm precies ${amount.toFixed(2)} EUR in.`,
       });
     }
 

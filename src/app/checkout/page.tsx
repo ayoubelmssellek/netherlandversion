@@ -208,19 +208,12 @@ function CheckoutForm() {
 
           {needsAmountInput ? (
             <div className="rounded-[8px] border border-amber-500/35 bg-amber-500/10 px-4 py-3 text-[13px] leading-[1.5] text-amber-50">
-              <p className="font-semibold text-white">Betaling met in te voeren bedrag</p>
+              <p className="font-semibold text-white">Abonnementsprijs: {formatMoney(plan.price)}</p>
               <p className="mt-1.5 text-amber-100/90">
-                Dit abonnement heeft nog geen vaste PayControl-betaallink. De prijs van je abonnement is{" "}
-                <strong className="text-white">{formatMoney(plan.price)}</strong> ({plan.productName},{" "}
-                {connectionLabel}).
-              </p>
-              <p className="mt-1.5 text-amber-100/90">
-                Bevestig of pas het bedrag hieronder aan. Op het volgende scherm (Stripe), gebruik{" "}
-                <strong className="text-white">precies dat bedrag in euro's</strong> zodat support
-                het juiste abonnement kan activeren.
+                Voer op het volgende scherm precies dit bedrag in.
               </p>
               <label className="mt-3 block text-[13px] text-amber-50">
-                Te betalen bedrag (EUR) <span className="text-white">*</span>
+                Bedrag (EUR) <span className="text-white">*</span>
                 <input
                   required
                   type="number"
